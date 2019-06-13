@@ -1,0 +1,38 @@
+{
+  "name": "Multimediacorner.com",
+  "short_name": "Multimedia Corner",
+  "start_url": "https://www.multimedialy.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#232323",
+  "description": "Blog yang membahas segala sesuatu tentang multimedia, mulai dari komputer, desain, fotografi, videografi dan masih banyak lagi",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-NHBZoyytjTE/XQKdfw5NmCI/AAAAAAAAAfs/DR1E7ZHRYUERnjrmZJMHbm9YHyc5UL5YQCLcBGAs/s48/multimedia%2Bcorner.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NHBZoyytjTE/XQKdfw5NmCI/AAAAAAAAAfs/DR1E7ZHRYUERnjrmZJMHbm9YHyc5UL5YQCLcBGAs/s72/multimedia%2Bcorner.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NHBZoyytjTE/XQKdfw5NmCI/AAAAAAAAAfs/DR1E7ZHRYUERnjrmZJMHbm9YHyc5UL5YQCLcBGAs/s96/multimedia%2Bcorner.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NHBZoyytjTE/XQKdfw5NmCI/AAAAAAAAAfs/DR1E7ZHRYUERnjrmZJMHbm9YHyc5UL5YQCLcBGAs/s144/multimedia%2Bcorner.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NHBZoyytjTE/XQKdfw5NmCI/AAAAAAAAAfs/DR1E7ZHRYUERnjrmZJMHbm9YHyc5UL5YQCLcBGAs/s168/multimedia%2Bcorner.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NHBZoyytjTE/XQKdfw5NmCI/AAAAAAAAAfs/DR1E7ZHRYUERnjrmZJMHbm9YHyc5UL5YQCLcBGAs/s192/multimedia%2Bcorner.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NHBZoyytjTE/XQKdfw5NmCI/AAAAAAAAAfs/DR1E7ZHRYUERnjrmZJMHbm9YHyc5UL5YQCLcBGAs/s512/multimedia%2Bcorner.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
